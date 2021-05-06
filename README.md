@@ -1,5 +1,3 @@
-# 02_Classification_Titanic
-
 <h2 align="center">Predicting Titanic Passenger Survival  
     <h2 align="center">with Supervised Machine Learning, by Logistic Regression (Classification)
 </h2>
